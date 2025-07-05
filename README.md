@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Thore</h1>
-<h3 align="center">Full Stack Developer | MERN & Next.js | Problem Solver | Open Source Learner</h3>
+<h3 align="center">Full Stack Developer | MERN & Next.js | Tech Enthusiast |  Problem Solver | Open Source Learner</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vaibhavthore12"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently building: **Farm Connect – a digital marketplace for farmers and buyers**
 - 🌱 Learning more about **System Design, Next.js, DevOps, and Advanced Backend**
-- 💬 Ask me about **MERN stack**, **Next.js**, **PHP**, **DSA**, and **Resume Building**
+- 💬 Ask me about **MERN stack**, **Next.js**, , **DSA**, and **Resume Building**
 - 👨‍🎓 B.E. in Computer Engineering from **D.Y. Patil Institute of Technology** (CGPA: 8.39)
 - 🏆 Solved **400+ DSA problems** | Winner of college-level **PBL Hackathon**
 
@@ -69,9 +69,11 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your_gfg_username/profile)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_codechef_username)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_hackerrank_username)
+[![Codolio](https://img.shields.io/badge/Codolio-0A192F?style=flat-square&logo=code&logoColor=white)](https://codolio.com/profile/Vaibhavthore12)
 
 
-[![Codilio](https://img.shields.io/badge/Codilio-1A1A1A?style=flat-square&logo=codeforces&logoColor=white)](https://codilio.com/users/vaibhavthore12)
+
+
 
 
 
