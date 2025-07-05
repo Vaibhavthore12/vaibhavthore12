@@ -70,7 +70,11 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_codechef_username)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_hackerrank_username)
 
-> Replace `your_leetcode_username`, etc. with your actual profile usernames.
+
+[![Codilio](https://img.shields.io/badge/Codilio-1A1A1A?style=flat-square&logo=codeforces&logoColor=white)](https://codilio.com/users/vaibhavthore12)
+
+
+
 
 ---
 
