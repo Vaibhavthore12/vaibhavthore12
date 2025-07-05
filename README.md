@@ -13,32 +13,40 @@
 
 - 🔭 I’m currently building: **Farm Connect – a digital marketplace for farmers and buyers**
 - 🌱 Learning more about **System Design, Next.js, DevOps, and Advanced Backend**
-- 💬 Ask me about **MERN stack**, **Next.js**, , **DSA**, and **Resume Building**
+- 💬 Ask me about **MERN stack**, **Next.js**, **PHP**, **DSA**, and **Resume Building**
 - 👨‍🎓 B.E. in Computer Engineering from **D.Y. Patil Institute of Technology** (CGPA: 8.39)
 - 🏆 Solved **400+ DSA problems** | Winner of college-level **PBL Hackathon**
-- 🧠 I love combining logic with design to create meaningful user experiences
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Technical Skills
 
-**Languages**  
-`C++` `Java` `Python` `JavaScript` `PHP`
+#### 👨‍💻 Programming Languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Frontend**  
-`HTML` `CSS` `Tailwind CSS` `Bootstrap` `React.js` `Next.js`
+#### 🌐 Web & Frameworks  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Backend**  
-`Node.js` `Express.js` `REST API` `Multer` `Cloudinary`
+#### 🛢️ Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Databases**  
-`MongoDB` `MySQL`
-
-**Tools & Platforms**  
-`Git` `GitHub` `Postman` `VS Code`
-
-**Fundamentals**  
-`OOP` `DBMS` `Operating Systems` `Computer Networks`
+#### 🛠 Tools & Dev  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -55,6 +63,17 @@
 
 ---
 
+### 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/your_leetcode_username)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your_gfg_username/profile)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_codechef_username)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_hackerrank_username)
+
+> Replace `your_leetcode_username`, etc. with your actual profile usernames.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -66,9 +85,8 @@
 
 ### 🤝 Let's Connect
 
-- 🌐 Portfolio: *(Add once live)*
-- 💼 LinkedIn: [linkedin.com/in/vaibhavthore12](https://linkedin.com/in/vaibhavthore12)
 - 📫 Email: [vaibhavthore12@gmail.com](mailto:vaibhavthore12@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vaibhavthore12](https://linkedin.com/in/vaibhavthore12)
 - 👨‍💻 GitHub: [github.com/vaibhavthore12](https://github.com/vaibhavthore12)
 
 ---
