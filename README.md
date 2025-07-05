@@ -65,11 +65,13 @@
 
 ### 💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/your_leetcode_username)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your_gfg_username/profile)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vaibhavthore12/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vaibhavthore12/)  
+
+[![Codolio](https://img.shields.io/badge/Codolio-0A192F?style=flat-square&logo=code&logoColor=white)](https://codolio.com/profile/Vaibhavthore12)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/your_codechef_username)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_hackerrank_username)
-[![Codolio](https://img.shields.io/badge/Codolio-0A192F?style=flat-square&logo=code&logoColor=white)](https://codolio.com/profile/Vaibhavthore12)
+
 
 
 
